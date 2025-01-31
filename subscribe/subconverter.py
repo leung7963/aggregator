@@ -14,14 +14,14 @@ PATH = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
 FILE_LOCK = Lock()
 
 CONVERT_TARGETS = [
-    # "clash",
+    "clash",
     "v2ray",
-    # "singbox",
+    "singbox",
     "mixed",
     # "clashr",
     # "quan",
     # "quanx",
-    # "loon",
+    "loon",
     # "ss",
     # "sssub",
     # "ssd",
