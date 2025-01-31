@@ -65,7 +65,7 @@ jobs:
           fi
 
       - name: Refresh
-        run: python -u subscribe/collect.py --all --refresh --overwrite --skip --vitiate -u https://check.leung0108.us.kg/
+        run: python -u subscribe/collect.py --all --refresh --overwrite --vitiate -u https://check.leung0108.us.kg/
 
       - name: Timestamp
         run: date
