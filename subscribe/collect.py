@@ -572,7 +572,7 @@ if __name__ == "__main__":
         "--url",
         type=str,
         required=False,
-        default="https://www.google.com/generate_204",
+        default="https://check.leung0108.us.kg",
         help="test url",
     )
 
