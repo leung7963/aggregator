@@ -17,7 +17,7 @@ CONVERT_TARGETS = [
     # "clash",
     "v2ray",
     # "singbox",
-     "mixed",
+    #  "mixed",
     # "clashr",
     # "quan",
     # "quanx",
