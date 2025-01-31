@@ -65,7 +65,7 @@ jobs:
           fi
 
       - name: Collect
-        run: python -u subscribe/collect.py --all --overwrite --vitiate -u https://check.leung0108.us.kg/
+        run: python -u subscribe/collect.py --all --overwrite --vitiate -u http://www.google.com/generate_204
 
       - name: Timestamp
         run: date
